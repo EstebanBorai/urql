@@ -1,5 +1,11 @@
 # @urql/core
 
+## 2.4.5
+
+### Patch Changes
+
+- Support aborting in `withPromise` cases, by [@JoviDeCroock](https://github.com/JoviDeCroock) (See [#2446](https://github.com/FormidableLabs/urql/pull/2446))
+
 ## 2.4.4
 
 ### Patch Changes
